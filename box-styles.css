@@ -1,0 +1,30 @@
+h1,
+p,
+div{
+background-color: #dde0e3;
+}
+
+em,
+strong,
+span,
+span{
+background-color: #b2d6ff;
+}
+
+h1{
+    padding: 50px;
+    margin: 50px;
+    border-radius: 50px solid black;
+}
+
+div{
+    background-color: red;
+    }
+.p{
+    background-color: red;
+}
+body{
+   background-image:url(panda.jpg);
+   background-repeat: no-repeat;
+   background-size:contain ;
+}
